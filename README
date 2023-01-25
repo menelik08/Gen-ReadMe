@@ -1,11 +1,11 @@
-# **Professional README Generator**
+# README Gen
 
 
-## **Description**
+## Description
 Command-line application for developers to use that would generate a professional README.md file for the user. 
 
 
-## **Installation**
+## Installation
 First, you'll want to clone down this repository onto your local machine. You can do this by copying the code within the green code button and typing out `git clone *insert code here*` within your command terminal.
 
 Next, you'll want to type the following in the command line. This installs the dependencies that will be used. 
@@ -18,12 +18,12 @@ Lastly, run Node to start the application. You can do this by typing the followi
 node index.js
 ```
 
-## **Usage**
+## Usage
 Video walkthrough of the application: 
-[![Video Walkthrough](https://drive.google.com/file/d/1DcB6lWWMuklGMSwzCWdvvUA8fc-RSdWZ/view "Video Walkthrough")
+[![Video Walkthrough]("https://drive.google.com/file/d/1MgcCUJnopT4VWhftlsS89rzmdIOEx8q1/view?usp=sharing Video Walkthrough")
 
 Below is a snippet of the function that generated the README file. Notice the use of template literals which take the user-inputted data and dynamically appends them to the file.
 
 
-## **License**
+## License
 The following application is covered under the MIT License.
